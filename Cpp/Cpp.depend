@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1429102974 source:d:\cppproj\cpp\main.cpp
+	<iostream>
+	<stdio.h>
+
+1430210233 source:d:\github\ispowtwo\cpp\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
